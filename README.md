@@ -1,6 +1,7 @@
 # Hey there! 👋 I'm Ivan Lin, An Aspiring Software Engineer!
 **About Me:** 
-<br><br>**Academic Journey:**<br>- 🎓 Third Year Computer Science Student at UCLA<br><br>**Learning Style:**<br>- 🧠 **Learning Enthusiast:** I thrive on continuous learning, always exploring new concepts and technologies.<br>- 🤝 **Collaborative Approach:** I believe in the power of teamwork and collaborative learning, valuing diverse perspectives.<br>- 🚀 **Hands-on Learner:** My philosophy is all about "learning by doing," applying theoretical knowledge in practical projects.<br><br>**Hobbies:**<br>- 🐟 **Fishing:** Finding tranquility by the water and enjoying the thrill of the catch.<br>- 🏀 **Basketball:** Shooting hoops and embracing the spirit of teamwork on the court.<br>- 🏋️ **Gym:** Staying fit and healthy, one workout at a time.<br>- 🚘 **Cars:** Exploring the world of automobiles, from classics to cutting-edge.<br><br>**Let's Connect:**<br>I'm passionate about Computer Science and love combining it with my diverse set of interests. If you share similar passions or just want to connect, feel free to reach out!<br><br>🌐 [Email] linivan2003@gmail.com <br>
+<br><br>**Academic Journey:**<br>- 🎓 Third Year Computer Science Student at UCLA<br><br>**Learning Style:**<br>- 🧠 **Learning Enthusiast:** I thrive on continuous learning, always exploring new concepts and technologies.<br>- 🤝 **Collaborative Approach:** I believe in the power of teamwork and collaborative learning, valuing diverse perspectives.<br>- 🚀 **Hands-on Learner:** My philosophy is all about "learning by doing," applying theoretical knowledge in practical projects.<br><br>**Hobbies:**<br>- 🐟 **Fishing:** Finding tranquility by the water and enjoying the thrill of the catch.<br>- 🏀 **Basketball:** Shooting hoops and embracing the spirit of teamwork on the court.<br>- 🏋️ **Gym:** Staying fit and healthy, one workout at a time.<br>- 🚘 **Cars:** Exploring the world of automobiles, from classics to cutting-edge.<br><br>**Let's Connect:**<br>I'm passionate about Computer Science and love combining it with my diverse set of interests. If you share similar passions or just want to connect, feel free to reach out!
+🌐 Email: linivan2003@gmail.com
 
 
 # 💻 Tech Stack:
@@ -10,6 +11,5 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=linivan2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
